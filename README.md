@@ -19,6 +19,7 @@
 ```
 ├── .gitkeep
 ├── CLAUDE.md
+├── NOTICE.md
 ├── README.upstream.md
 ├── SKILL.md
 ├── index.html
