@@ -24,13 +24,13 @@
 ├── SKILL.md
 ├── index.html
 ├── wiki/
-└── .gitkeep
+│   └── .gitkeep
 └── references/
-├── .gitkeep
-├── content_methodology.md
-├── style_examples.md
-└── scenes/
-└── scene_examples.md
+    ├── .gitkeep
+    ├── content_methodology.md
+    ├── style_examples.md
+    └── scenes/
+        └── scene_examples.md
 ```
 
 - `SKILL.md` 是技能入口（触发条件 / 工作流 / 约束），安装时必须位于技能根目录。
